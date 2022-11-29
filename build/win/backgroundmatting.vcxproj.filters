@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\cstsdk\background_matting_cpponnx\src\background_matting\Background.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cstsdk\background_matting_cpponnx\src\background_matting\BackgroundMatting.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cstsdk\background_matting_cpponnx\src\background_matting\BackgroundMattingConfig.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cstsdk\background_matting_cpponnx\src\background_matting\Profiler.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cstsdk\background_matting_cpponnx\src\background_matting\utils.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\cstsdk\background_matting_cpponnx\src\background_matting\cpponnx.cpp" />
+    <ClCompile Include="..\..\src\background_matting\OrtWarper.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\cstsdk\background_matting_cpponnx\src\background_matting\Background.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cstsdk\background_matting_cpponnx\src\background_matting\BackgroundMatting.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cstsdk\background_matting_cpponnx\src\background_matting\BackgroundMattingConfig.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cstsdk\background_matting_cpponnx\src\background_matting\Profiler.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cstsdk\background_matting_cpponnx\src\background_matting\utils.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\cstsdk\background_matting_cpponnx\src\background_matting\cpponnx.h" />
+    <ClInclude Include="..\..\src\background_matting\OrtWarper.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{09CEFF2A-EF44-3100-9856-3422B5FD97BF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
